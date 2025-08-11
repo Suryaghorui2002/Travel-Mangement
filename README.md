@@ -99,6 +99,6 @@ License
 This project is licensed under the MIT License. See LICENSE for details.
 
 Contact
-Maintainer: Your Name —Souvik Koner [souvik.iswerpur2017@gmail.com]
+Maintainer: Your Name —SURYA GHORUI 
 
 Generated README — edit sections to match your app's real details.
