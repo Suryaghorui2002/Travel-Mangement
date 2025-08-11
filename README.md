@@ -23,7 +23,7 @@ Add a link to the deployed demo here (Netlify / Vercel / Surge).
 
 Quick start (development)
 Clone the repo:
-bash git clone https://github.com//tourism-management-app.git cd tourism-management-app
+bash git clone https://github.com//Travel_Mangement-main cd tourism-management-app
 
 Install dependencies:
 bash npm install
